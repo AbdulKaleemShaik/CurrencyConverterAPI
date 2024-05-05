@@ -1,1 +1,3 @@
 # CurrencyConverterAPI
+CurrencyConverter is a simple and efficient tool for converting currencies. It provides users with the ability to convert between different currencies based on the latest exchange rates. The tool is designed to be user-friendly, allowing users to quickly and easily perform currency conversions without any hassle. It is built using modern web technologies and is accessible from any device with an internet connection. Whether you're traveling abroad, shopping online, or managing international investments, CurrencyConverter is the perfect tool to help you manage your finances.
+Link:https://currencyconverterapi-react.netlify.app/
